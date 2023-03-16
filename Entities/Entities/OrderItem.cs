@@ -16,7 +16,6 @@ namespace Entities.Entities
         public DateTime DateOrder { get; set; }
         public int IdUser { get; set; }
         public int IdRol { get; set; }
-
         public int IdProduct { get; set; }
         public decimal Price { get; set; }
         public int Amount { get; set; }

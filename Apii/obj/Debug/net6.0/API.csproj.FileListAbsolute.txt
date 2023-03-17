@@ -192,7 +192,6 @@ C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\De
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.AssemblyInfo.cs
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
-C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
@@ -313,3 +312,4 @@ C:\Users\marta\OneDrive\Escritorio\Marta\FEMCODERS\PROYECTOS GRUPALES\4º E-comm
 C:\Users\marta\OneDrive\Escritorio\Marta\FEMCODERS\PROYECTOS GRUPALES\4º E-commer Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.pdb
 C:\Users\marta\OneDrive\Escritorio\Marta\FEMCODERS\PROYECTOS GRUPALES\4º E-commer Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\marta\OneDrive\Escritorio\Marta\FEMCODERS\PROYECTOS GRUPALES\4º E-commer Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\ref\API.dll
+C:\Users\juanc\FactoriaF5-proyectos\Proyectos\Alambique\AlambiqueAPI\Apii\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs

@@ -74,12 +74,12 @@ namespace API.Controllers
             }
         }
 
-        [HttpGet(Name = "GetProductsByCriteria")]
-        public List<ProductItem> GetProductByCriteria([FromQuery]string ProductBrand)
-        {
+        //[HttpGet(Name = "GetProductsByCriteria")]
+        //public List<ProductItem> GetProductByCriteria([FromQuery]string ProductBrand)
+        //{
 
-            return _productService.GetProductByCriteria(ProductBrand);
-        }
+        //    return _productService.GetProductByCriteria(ProductBrand);
+        //}
 
         [HttpGet(Name = "GetAllProducts")]
         public List<ProductItem> GetAll()

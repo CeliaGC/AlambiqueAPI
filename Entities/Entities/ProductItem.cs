@@ -13,6 +13,10 @@ namespace Entities.Entities
         {
             IsActive = true;
             IsPublic = true;
+            IdWeb = Guid.NewGuid();
+            InsertDate= DateTime.Now;
+            UpdateDate= DateTime.Now;
+            ProductBrand = "Sumama";
         }
         public int Id { get; set; }
         public string ProductName { get; set; }
@@ -21,7 +25,7 @@ namespace Entities.Entities
         public string Ingredients { get; set; }
         public decimal EffectsDuration { get; set; }
         public string AdverseEffects { get; set; }
-        public string Image { get; set; }
+        public string? Image { get; set; }
         public decimal Price { get; set; }
         public int Stock { get; set; }
         public Guid IdWeb { get; set; }

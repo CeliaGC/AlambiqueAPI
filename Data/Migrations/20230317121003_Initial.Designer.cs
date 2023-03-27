@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Data.Migrations
 {
     [DbContext(typeof(ServiceContext))]
-    [Migration("20230317093453_withoutImage")]
-    partial class withoutImage
+    [Migration("20230317121003_Initial")]
+    partial class Initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -102,6 +102,10 @@ namespace Data.Migrations
 
                     b.Property<Guid>("IdWeb")
                         .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("Image")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Ingredients")
                         .IsRequired()

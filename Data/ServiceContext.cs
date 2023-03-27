@@ -20,6 +20,8 @@ namespace Data
         public DbSet<UserRol> RolType { get; set; }
         public DbSet<OrderItem> Orders { get; set; }
         //public DbSet<newOrderRequest> OrderRequests { get; set; }
+
+        public DbSet<Events> Events { get; set; }
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.Entity<ProductItem>(entity => {
@@ -40,6 +42,9 @@ namespace Data
                 entity.HasOne<ProductItem>().WithMany().HasForeignKey(o => o.IdProduct);
             });
 
+            builder.Entity<Events>(entity => {
+                entity.ToTable("Events");
+            });
         }
     }
     public class ServiceContextFactory : IDesignTimeDbContextFactory<ServiceContext>

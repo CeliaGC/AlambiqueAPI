@@ -25,6 +25,9 @@ builder.Services.AddScoped<ISecurityService, SecurityService>();
 builder.Services.AddScoped<ISecurityLogic, SecurityLogic>();
 builder.Services.AddScoped<IOrderLogic, OrderLogic>();
 builder.Services.AddScoped<IOrderService, OrderService>();
+builder.Services.AddScoped<IEventsLogic, EventsLogic>();
+builder.Services.AddScoped<IEventsService, EventsService>();
+
 
 
 

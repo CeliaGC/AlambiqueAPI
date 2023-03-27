@@ -23,7 +23,7 @@ namespace Data.Migrations
                     Ingredients = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     EffectsDuration = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     AdverseEffects = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Image = table.Column<byte[]>(type: "varbinary(max)", nullable: false),
+                    Image = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Stock = table.Column<int>(type: "int", nullable: false),
                     IdWeb = table.Column<Guid>(type: "uniqueidentifier", nullable: false),

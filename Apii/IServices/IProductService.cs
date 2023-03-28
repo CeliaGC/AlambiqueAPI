@@ -12,6 +12,7 @@ namespace API.IServices
 
         List<ProductItem> GetProductByCriteria(string ProductBrand);
         List<ProductItem> GetAll();
+        public List<ProductItem> GetProductById(int id);
     }
 
     

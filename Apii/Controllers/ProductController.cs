@@ -88,5 +88,12 @@ namespace API.Controllers
             return _productService.GetAll();
         }
 
+        [HttpGet(Name = "GetProductById")]
+        public List<ProductItem> GetProductById([FromQuery] int id)
+        {
+
+            return _productService.GetProductById(id);
+        }
+
     }
 }

@@ -37,5 +37,11 @@ namespace API.Services
         {
             return _productLogic.GetAll();
         }
+
+        public List<ProductItem> GetProductById(int id)
+
+        {
+            return _productLogic.GetProductById(id);
+        }
     }
 }

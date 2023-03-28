@@ -17,5 +17,6 @@ namespace Logic.ILogic
 
         List<ProductItem> GetProductByCriteria(string ProductBrand);
         List<ProductItem> GetAll();
+        public List<ProductItem> GetProductById(int id);
     }
 }

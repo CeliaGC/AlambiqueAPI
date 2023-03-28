@@ -57,7 +57,24 @@ namespace Logic.Logic
             return allProducts;
         }
 
-       
+        public List<ProductItem> GetProductById(int id)
+
+        {
+            var nameFilter = new ProductItem();
+            nameFilter.Id = id;
+
+            var resultList = _serviceContext.Set<ProductItem>()
+                .Where(i => i.Id == id);
+
+            if (nameFilter.Id == id)
+            {
+                resultList = resultList.Where(i => i.Id == id);
+            }
+
+            return resultList.ToList();
+
+        }
+
     }
 
 }

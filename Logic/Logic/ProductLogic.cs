@@ -29,7 +29,7 @@ namespace Logic.Logic
             return productItem.Id;
         }
         public void UpdateProduct(ProductItem productItem) 
-        {
+        {   
             _serviceContext.Products.Update(productItem);
             _serviceContext.SaveChanges();
         }

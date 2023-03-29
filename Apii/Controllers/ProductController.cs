@@ -60,7 +60,8 @@ namespace API.Controllers
         [HttpPatch(Name = "ModifyProduct")]
         public void Patch([FromQuery] string userName,
                           [FromQuery] string userPassword,
-                          [FromBody] ProductItem productItem)
+                          [FromQuery] int id,
+                          [FromBody]  ProductItem productItem)
 
         {
             var validCredentials = _securityService.ValidateUserCredentials(userName, userPassword, 1);

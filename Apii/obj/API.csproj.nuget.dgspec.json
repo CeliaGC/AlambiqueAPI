@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\API.csproj": {}
+    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\API.csproj": {
+    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\API.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\API.csproj",
+        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\API.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\obj\\",
+        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj"
               },
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj": {
+    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj",
+        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\obj\\",
+        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -114,8 +114,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj": {
+    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -241,14 +241,14 @@
         }
       }
     },
-    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj": {
+    "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj",
+        "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\juanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\obj\\",
+        "outputPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -269,11 +269,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Data\\Data.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Data\\Data.csproj"
               },
-              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Entities\\Entities.csproj"
+              "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Entities\\Entities.csproj"
               }
             }
           }

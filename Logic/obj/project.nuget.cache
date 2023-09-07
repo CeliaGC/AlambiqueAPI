@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ncxwhu2/DYBJyQ8xfpR0EynZlxLjO49vP0Nq2sP1mAn5D2o70XCOe1SgnD406pIq4r1Q7BsxPKNJ6BH9xJXPg==",
+  "dgSpecHash": "HCqZw5JvXmTZZgC8B0h+CgJiHdOEei9clblxpNol+ipr6pEhepriXlXXnFrbDKvFPPdX0a5G4l12Qng9nloi/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Logic\\Logic.csproj",
+  "projectFilePath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Logic\\Logic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\juanc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

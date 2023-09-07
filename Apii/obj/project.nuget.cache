@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yyt6R8COwcBVjZU79wohV09DDU2X38MCLX8rO3gFsW7RgEzvXZ+hQlBShQ/KnhGY+RvgTJO1l2BSGC6VUqPokg==",
+  "dgSpecHash": "Tglnt1LQjthf77CKpTlTHl+G7N/XKepx2SBlgNyJJa2uKmyHEJGvoCjuGKr8MG3ZDz+iuz4EW5ipVnKWk5HfDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique\\AlambiqueAPI\\Apii\\API.csproj",
+  "projectFilePath": "C:\\Users\\juanc\\FactoriaF5-proyectos\\Proyectos\\Alambique(fork)\\AlambiqueAPI\\Apii\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juanc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\juanc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Resources", "Resources", "{
 		Resources\Documentación_ApiWeb.pdf = Resources\Documentación_ApiWeb.pdf
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "TestProject\TestProject.csproj", "{9F8B58E5-3F40-46E1-9C20-3798A6DFB225}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject2", "TestProject2\TestProject2.csproj", "{A6B0B0D5-387E-4750-BB09-3ED4AEA14040}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,10 +40,10 @@ Global
 		{88F964F0-5000-44EC-98A8-D1EE233F7A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88F964F0-5000-44EC-98A8-D1EE233F7A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88F964F0-5000-44EC-98A8-D1EE233F7A40}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F8B58E5-3F40-46E1-9C20-3798A6DFB225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F8B58E5-3F40-46E1-9C20-3798A6DFB225}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F8B58E5-3F40-46E1-9C20-3798A6DFB225}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F8B58E5-3F40-46E1-9C20-3798A6DFB225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6B0B0D5-387E-4750-BB09-3ED4AEA14040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B0B0D5-387E-4750-BB09-3ED4AEA14040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B0B0D5-387E-4750-BB09-3ED4AEA14040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B0B0D5-387E-4750-BB09-3ED4AEA14040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

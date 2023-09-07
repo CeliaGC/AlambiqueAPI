@@ -16,13 +16,14 @@ namespace TestProject
 
         public void InsertProductItem()
         {
+            //Arrange 
             var ProductA = new ProductItem();
-            var ProductList = new List<ProductItem>();
-           
+
+            //Act
             ProductA.IdWeb = default;
 
-            ProductList.Add(ProductA);
 
+            //Assert
 
             Assert.IsNotNull(ProductA.IdWeb);
         }
